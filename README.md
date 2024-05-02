@@ -33,7 +33,7 @@ We are seeking an intern who can demonstrate proficiency in MATLAB, an understan
 
 **Submission Instructions**:
    - Complete your assignment within the GitHub repository.
-   - Once completed, email the link to your GitHub repository to nik.dave@asml.com and georg.wilding@asml.com.
+   - Once completed, email the link to your GitHub repository to georg.wilding@asml.com and nik.dave@asml.com.
    - Ensure that all commits are pushed to your GitHub repository by the submission deadline.
 
 **Evaluation Criteria**:
