@@ -16,7 +16,7 @@ We are seeking an intern who can demonstrate proficiency in MATLAB, an understan
    - Output the plot results to a file.
 
 2. **GitHub Repository Setup**:
-   - Make the repository to your GitHub account.
+   - Make a new repository with your GitHub account.
    - Ensure your repository is public to allow review of your code.
    - Structure your code with clear, logical organisation and include a `README.md` file documenting:
      - How to set up and run your application.
@@ -32,7 +32,7 @@ We are seeking an intern who can demonstrate proficiency in MATLAB, an understan
    - Use clear and informative commit messages to document your development process.
 
 **Submission Instructions**:
-   - Complete your assignment within the GitHub repository.
+   - Complete your assignment within your GitHub repository.
    - Once completed, email the link to your GitHub repository to martijn.van.der.leegte@asml.com and nik.dave@asml.com.
    - Ensure that all commits are pushed to your GitHub repository by the submission deadline.
 
